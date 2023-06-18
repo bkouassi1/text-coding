@@ -1,0 +1,65 @@
+.assignment{
+    text-align: center;
+    background-color: gray;
+    }
+    #site-search{
+      width:1000px;
+      padding-bottom:5px ;
+      margin-bottom: 5px
+      
+    }
+    input{
+    border: 1px solid black;
+    height: 30px;
+    border-radius:10px; }
+    .container{
+      text-align: center;
+      font-family: cursive;
+      font-size: medium;
+     }
+     .col{
+      border: 2px solid black;
+      
+      margin: 30px 20px 20px 20px;
+      border-radius: 10px;
+      background-color: gray;
+      padding: 20px 10px 20px 10px;
+    
+     }
+     h2{
+      text-align: center;
+      margin: 50px 20px 50px 20xp;
+      font-size: x-large;
+      padding: 30px 20px 30px 20px;
+     }
+    
+    .h3a{width: 95px;
+      float: right;
+    margin: 0px;
+    
+     background-color: #B22222;
+     border-radius: 15px; 
+     font-family: cursive;
+     font-size: bold;}
+    
+    .h3b{width: 80px;
+      float: right;
+    margin: 0px;
+     
+      background-color:#DAA520;
+      border-radius: 15px;
+      font-family: cursive;
+      font-size: bold;}
+    
+    .h3c{ width: 80px;
+      float: right;
+    margin: 0px;
+     
+     background-color: #FFD700;
+      border-radius: 15px;
+      font-family: cursive;
+      font-size: bold;}
+    
+     p{
+      padding: 40px;
+     }
